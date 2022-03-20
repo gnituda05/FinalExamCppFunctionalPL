@@ -1,24 +1,24 @@
 # FinalExamCppFunctionalPL
 
-Problem: Suppose we have 30 students each studying 2 subjects (subject 1 and subject 2) and we have to display the marks in both the subjects of the 30 students.  30 students studied only 2 subjects.
-*PS in this problem I will input the marks from student but only 3 students will be ouputed for this Syntax for that we can easily see the marks of rach student when it comes to mass of population.
+Problem: Suppose we have 30 students each studying 2 subjects (subject 1 and subject 2) and we have to display the marks in both the subjects of the 30 students.  30 students studied only 2 subjects. <br />
+*PS in this problem I will input the marks from student but only 3 students will be ouputed for this Syntax for that we can easily see the marks of rach student when it comes to mass of population. <br />
 
-In this Problem I use 2D arrays for the list. 
-Why if arrays are  2D? 
+**In this Problem I use 2D arrays for the list.**<br />
+Why if arrays are  2D? <br />
  -  2-dimensional arrays also exist and are generally known as matrix. These consist of rows and columns.
 Before going into its application, let's first see how to declare and initialize a 2 D array.
 Similar to one-dimensional array, we define 2-dimensional array as below.
 
 
-![image](https://user-images.githubusercontent.com/70184357/159165641-53dd33d6-508b-40d3-b2a0-ae5fd90dcfa8.png)
-Here, a is a 2-D array of type int which consists of 2 rows and 4 columns.
-It is like:
+![image](https://user-images.githubusercontent.com/70184357/159165641-53dd33d6-508b-40d3-b2a0-ae5fd90dcfa8.png)<br />
+Here, a is a 2-D array of type int which consists of 2 rows and 4 columns. <br />
+It is like: <br />
         Column 0 || Column 1 || Column 2 || Column 3
 Row 0   a[0][0]     a[0][0]      a[0][0]    a[0][0] 
 Row 1   a[1][0]     a[1][1]      a[1][2]    a[1][3] 
 
 Now let's see how to initialize a 2-dimensional array.
-# Initialization of 2 D Array
+**Initialization of 2 D Array**
 Same as in one-dimensional array, we can assign values to a 2-dimensional array in 2 ways as well.
 In the first method, just assign a value to the elements of the array. If no value is assigned to any element, then its value is assigned zero by default.
 Suppose we declared a 2-dimensional array a[2][2]. Then to assign it values, we need to assign a value to its elements.
