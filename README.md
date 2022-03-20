@@ -1,7 +1,7 @@
 # FinalExamCppFunctionalPL
 
 Problem: Suppose we have 30 students each studying 2 subjects (subject 1 and subject 2) and we have to display the marks in both the subjects of the 30 students.  30 students studied only 2 subjects. <br />
-*PS in this problem I will input the marks from student but only 3 students will be ouputed for this Syntax for that we can easily see the marks of rach student when* *it comes to mass of population.* <br />
+*PS|| in this problem I will input the marks from student but only 3 students will be ouputed for this Syntax for that we can easily see the marks of rach student when* *it comes to mass of population.* <br />
 
 **In this Problem I use 2D arrays for the list.**<br />
 Why if arrays are  2D? <br />
